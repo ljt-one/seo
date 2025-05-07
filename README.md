@@ -1,2 +1,3 @@
-# seo
-This is a free SEO backlink project where you can submit your website link to improve its ranking and enhance search engine visibility. Please note that links to websites with illegal, adult, gambling, or other prohibited content are strictly not allowed.
+# 搜索引擎优化
+这是一个免费的SEO反向链接项目，您可以提交您的网站链接以提高其排名并增强搜索引擎的可见性。请注意，严格禁止链接到非法、成人、赌博或其他禁止内容的网站。
+#反向链接
